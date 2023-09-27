@@ -1,0 +1,7 @@
+#Docker
+.docker
+
+# Python
+__pycache__
+.cache
+.git
